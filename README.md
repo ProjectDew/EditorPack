@@ -57,7 +57,7 @@ This repository contains a number of scripts for the Unity Editor that are speci
 
 - ***ISection***: an interface that it's sort of my personal PropertyDrawer. I use this because it gives me more freedom to customize how things are displayed (arrays in particular).
 
-  - Draw: displays the contents of the section.
+  - ***Draw***: displays the contents of the section.
 
 - ***IInspectorSection***: used for custom inspectors. It inherits from ISection.
 
